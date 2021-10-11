@@ -1,0 +1,43 @@
+Prerequisites:
+
+- Install sqlalchemy
+
+import sqlalchemy as db
+
+
+https://stackoverflow.com/questions/31394998/using-sqlalchemy-to-load-csv-file-into-a-database
+https://stackoverflow.com/questions/43453420/import-csv-to-database-using-sqlalchemy
+https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
+
+https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+
+
+SQLite:
+https://stackoverflow.com/questions/947215/how-to-get-a-list-of-column-names-on-sqlite3-database
+
+pd.read_sql from sqlite and plotting it with matplotlib.pyplot
+https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f
+
+pandas with sqlalchemy:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html
+
+Python Least Squares regression:
+https://pythonnumericalmethods.berkeley.edu/notebooks/chapter16.04-Least-Squares-Regression-in-Python.html
+https://www.edureka.co/blog/least-square-regression/
+
+Linear regression with sklearn
+https://scikit-learn.org/stable/modules/linear_model.html
+
+Evaluation:
+https://towardsdatascience.com/ways-to-evaluate-regression-models-77a3ff45ba70
+
+
+-- YouTube:
+SQLite installation: https://www.youtube.com/watch?v=wXEZZ2JT3-k
+Least-square: https://www.youtube.com/watch?v=Qm3_QisFMVs
+How to create a new branch on GitHub: https://www.youtube.com/watch?v=Lf3DYRvCPFo
+How to use GitHub and VS Code: https://www.youtube.com/watch?v=3Tn58KQvWtU
+
+
+-- Map function:
+https://www.w3schools.com/python/ref_func_map.asp

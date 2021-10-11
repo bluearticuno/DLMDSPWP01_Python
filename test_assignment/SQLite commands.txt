@@ -1,0 +1,26 @@
+-- go to the path location, open db file with the sqlite3
+C:\Users\nurca\OneDrive\Desktop\Python test>sqlite3 nug.db
+
+-- query tables in nug.db
+sqlite> select * from nug_table;
+
+-- list of database
+sqlite> .databases
+
+-- list of tables:
+sqlite> .tables
+
+-- table info
+sqlite> pragma table_info(nug_table);
+
+-- table schema information
+sqlite> .schema nug_table
+
+-- turn-on the header during query:
+sqlite> .headers ON
+
+-- set the mode to column during query:
+sqlite> .mode column
+
+-- exit
+sqlite> .exit
