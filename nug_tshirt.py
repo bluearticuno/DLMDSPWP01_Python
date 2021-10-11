@@ -17,7 +17,7 @@ def main():
     except:
         print("Failed to create engine.")
 
-    #Read data from csv file and store it to dataframe
+    #Read data from csv file and store it to dataframe - Nug update comment
     tshirt_df = pd.read_csv(os.path.join(os.getcwd(), "t-shirt.csv"))
     #Create new table in SQLite based on dataframe
     tshirt_df.to_sql('tshirt_table',con=engine, index=False, if_exists='replace')
